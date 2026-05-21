@@ -157,7 +157,7 @@ export default function Home() {
             Waras Digital
           </span>
           <span className="font-body text-body-sm text-on-surface-variant">
-            © 2024 Waras Digital. Patience, Clarity, Protection.
+            © 2026 Waras Digital. Patience, Clarity, Protection.
           </span>
         </div>
         {/* Links */}
